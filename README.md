@@ -9,3 +9,8 @@ Steps:
 1) Use all but the last fully-connected layer as a fixed feature extractor.
 2) Define a new, final classification layer and apply it to a task of our choice!
 
+The dataset used is a small dataset but still the model is trained with a accuracy of 81%.
+
+
+Reference : http://cs231n.github.io/transfer-learning/
+
